@@ -20,7 +20,7 @@
 
 |MTI Marco A.Ramirez |[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Revision de documentacion|✔ Revisado y aprobado |
 |Lorena Citlalli Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Lider de documetacion|✔ Revisado y aprobado|
-|Esther González Peralta|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Revision de documentacion|✔ Revisado y aprobado |
+|Esther González Peralta|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Revision de documentacion|✖ Revisado y no aprobado, hay códigos mal, la tabla de observaciones está mal |
 |Marco Jesus Rios Duran|[@Marco-Jesus-Rios-Duran](https://github.com/Marco-Jesus-Rios-Duran)| Revision de documentacion|✖ Hay errores en el código, no aprobado|
 
 
