@@ -17,7 +17,7 @@
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
 |Esther González|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Líder de BackEnd|✖️ Revisado y aprobado |
-|Lorena Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Desarrollador BackEnd|😅No he revisado nada|
+|Lorena Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Desarrollador BackEnd|✔ Revisado y aprobado |
 |Marcos Jesús Rios|[@Marcos-Jesus-Rios-Duran](https://github.com/ibarra-tania)|Desarrollador BackEnd|😒 No aprobado|
 
 ---
